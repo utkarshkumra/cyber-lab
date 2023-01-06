@@ -8,4 +8,3 @@ In This Cyber Defense Home Lab I have Used the Following technologies/specs:
 * Splunk as SIEM Solution
 * Ubuntu as Victim Machine
 
-Please Download the .pdf file to view it.
